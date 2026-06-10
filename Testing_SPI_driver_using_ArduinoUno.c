@@ -1,5 +1,5 @@
 /*
- * 005_SPI_TX_Only_Arduino.c
+ * Testing_SPI_driver_using_ArduinoUno.c
  *
  *  Created on: 30-May-2026
  *      Author: shivam
